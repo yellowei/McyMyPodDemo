@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #
 
   #s.source = { :git => "http://EXAMPLE/MyPodDemo.git", :tag => "#{s.version}" }
-  s.source = { :git => "https://github.com/goingta/MyPodDemo.git", :tag => "0.0.1" }
+  s.source = { :git => "https://github.com/yellowei/MyPodDemo.git", :tag => "0.0.1" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
